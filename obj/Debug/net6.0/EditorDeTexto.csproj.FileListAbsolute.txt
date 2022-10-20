@@ -1,0 +1,15 @@
+C:\Estudo C#\My Career Learning .NET\EditorDeTexto\bin\Debug\net6.0\EditorDeTexto.exe
+C:\Estudo C#\My Career Learning .NET\EditorDeTexto\bin\Debug\net6.0\EditorDeTexto.deps.json
+C:\Estudo C#\My Career Learning .NET\EditorDeTexto\bin\Debug\net6.0\EditorDeTexto.runtimeconfig.json
+C:\Estudo C#\My Career Learning .NET\EditorDeTexto\bin\Debug\net6.0\EditorDeTexto.dll
+C:\Estudo C#\My Career Learning .NET\EditorDeTexto\bin\Debug\net6.0\EditorDeTexto.pdb
+C:\Estudo C#\My Career Learning .NET\EditorDeTexto\obj\Debug\net6.0\EditorDeTexto.csproj.AssemblyReference.cache
+C:\Estudo C#\My Career Learning .NET\EditorDeTexto\obj\Debug\net6.0\EditorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo C#\My Career Learning .NET\EditorDeTexto\obj\Debug\net6.0\EditorDeTexto.AssemblyInfoInputs.cache
+C:\Estudo C#\My Career Learning .NET\EditorDeTexto\obj\Debug\net6.0\EditorDeTexto.AssemblyInfo.cs
+C:\Estudo C#\My Career Learning .NET\EditorDeTexto\obj\Debug\net6.0\EditorDeTexto.csproj.CoreCompileInputs.cache
+C:\Estudo C#\My Career Learning .NET\EditorDeTexto\obj\Debug\net6.0\EditorDeTexto.dll
+C:\Estudo C#\My Career Learning .NET\EditorDeTexto\obj\Debug\net6.0\refint\EditorDeTexto.dll
+C:\Estudo C#\My Career Learning .NET\EditorDeTexto\obj\Debug\net6.0\EditorDeTexto.pdb
+C:\Estudo C#\My Career Learning .NET\EditorDeTexto\obj\Debug\net6.0\EditorDeTexto.genruntimeconfig.cache
+C:\Estudo C#\My Career Learning .NET\EditorDeTexto\obj\Debug\net6.0\ref\EditorDeTexto.dll
